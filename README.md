@@ -7,8 +7,7 @@ CODE CRAFTERS
 ✅ Problem Statement Name
 SB-01: Ai-Powered Chatbot for Government Schemes and financial aid
 
-✅ Project Title (if any)
-BOLT — SarkariSathi
+✅ Project Title — SarkariSathi
 
 ✅ Brief Project Description
 SarkariSathi is an intelligent monitoring system designed for bridges and similar public infrastructure. Using a network of IoT sensors, the system continuously tracks vibration, load, temperature, and potential structural anomalies. Data is processed using AI models to predict failures and send alerts in real-time. This solution aims to enhance safety, reduce maintenance costs, and provide timely alerts to authorities.
